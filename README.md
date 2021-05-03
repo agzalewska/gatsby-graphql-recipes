@@ -1,4 +1,4 @@
-## Tasty Recipes Website
+## ⭐  Tasty Recipes Website  ⭐ 
 
 ### Built with Gatsby.js, React.js, JavaScript, CSS, HTML, Headless CMS Contentful and Git
 
