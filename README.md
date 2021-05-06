@@ -31,6 +31,15 @@ https://www.gatsbyjs.com/plugins/gatsby-plugin-styled-components/
 
 ⭐ 
 
+Icons used for this project:
+
+React icons
+
+Git command: 
+npm install react-icons --save
+
+https://react-icons.github.io/react-icons/
+
 ⭐ 
 ⭐ 
 ⭐ 
