@@ -2,6 +2,8 @@
 
 ### Built with Gatsby.js, React.js, JavaScript, CSS, HTML, Headless CMS Contentful and Git
 
+⭐ 
+
 Used starter : gatsby-starter-hello-world
 
 Git command: gatsby new my-gatsby-project https://github.com/gatsbyjs/gatsby-starter-hello-world
