@@ -4,6 +4,14 @@
 
 ⭐ 
 
+A fully functional, elegant Tasty Recipes website allowing users to browse through various recipes, which provide a short description of the recipe, ingredients needed, cooking time, preparation time, number of servings, instructions and list of tools used for cooking.
+
+Users can search for a recipe they need by clicking of tags assigned to a given recipe.
+
+The website is fully responsive.
+
+⭐ 
+
 Used starter : gatsby-starter-hello-world
 
 Git command: gatsby new my-gatsby-project https://github.com/gatsbyjs/gatsby-starter-hello-world
