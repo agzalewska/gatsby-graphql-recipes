@@ -4,13 +4,21 @@
 
 Used starter : gatsby-starter-hello-world
 
-Git: gatsby new my-gatsby-project https://github.com/gatsbyjs/gatsby-starter-hello-world
+Git command: gatsby new my-gatsby-project https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world
 
+⭐ 
 
+Gatsby Styled-Components Plugin:
+
+A Gatsby plugin for styled-components with built-in server-side rendering support.
+
+Install
+npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components
 
 ⭐ 
+
 ⭐ 
 ⭐ 
 ⭐ 
