@@ -4,11 +4,11 @@
 
 ⭐ 
 
-###A fully functional, elegant Tasty Recipes website allowing users to browse through various recipes, which provide a short description of the recipe, ingredients needed, cooking time, preparation time, number of servings, instructions and list of tools used for cooking.
+### A fully functional, elegant Tasty Recipes website allowing users to browse through various recipes, which provide a short description of the recipe, ingredients needed, cooking time, preparation time, number of servings, instructions and list of tools used for cooking.
 
-###Users can search for a recipe they need by clicking of tags assigned to a given recipe.
+### Users can search for a recipe they need by clicking of tags assigned to a given recipe.
 
-###The website is fully responsive.
+### The website is fully responsive.
 
 ⭐ 
 
