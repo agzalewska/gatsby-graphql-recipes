@@ -2,6 +2,14 @@
 
 ### Built with Gatsby.js, React.js, JavaScript, CSS, HTML, Headless CMS Contentful and Git
 
+Used starter : gatsby-starter-hello-world
+
+Git: gatsby new my-gatsby-project https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world
+
+
+
 ⭐ 
 ⭐ 
 ⭐ 
