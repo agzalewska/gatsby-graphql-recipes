@@ -41,10 +41,21 @@ npm install react-icons --save
 https://react-icons.github.io/react-icons/
 
 ⭐ 
-⭐ 
-⭐ 
-⭐ 
 
+Plugin gatsby-source-contentful:
+
+Source plugin for pulling content types, entries, and assets into Gatsby from Contentful spaces. It creates links between entry types and asset so they can be queried in Gatsby using GraphQL.
+
+Git command: 
+npm install gatsby-source-contentful
+
+https://www.gatsbyjs.com/plugins/gatsby-source-contentful/
+
+⭐ 
+⭐ 
+⭐ 
+⭐ 
+⭐ 
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
