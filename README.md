@@ -10,6 +10,8 @@
 
 #### The website is fully responsive.
 
+#### Individual recipe sites have been set up programmatically using query variables in GraphQL.
+
 ⭐ 
 
 Used starter : gatsby-starter-hello-world
