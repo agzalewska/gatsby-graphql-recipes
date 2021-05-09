@@ -12,6 +12,10 @@
 
 #### Individual recipe sites have been set up programmatically using query variables in GraphQL.
 
+#### Urls for individual recipe sites have been slugified:
+git command: 
+npm i slugify
+
 ⭐ 
 
 Used starter : gatsby-starter-hello-world
