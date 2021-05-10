@@ -10,6 +10,10 @@
 
 #### The website is fully responsive.
 
+#### Contact form has been set up with Formspree.
+
+https://formspree.io/
+
 #### Individual recipe sites have been set up programmatically using query variables in GraphQL.
 
 #### Urls for individual recipe sites have been slugified:
