@@ -10,6 +10,12 @@
 
 #### The website is fully responsive.
 
+#### Optimized for SEO with gatsby-plugin-react-helmet: 
+
+npm install gatsby-plugin-react-helmet react-helmet
+
+https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/
+
 #### Contact form has been set up with Formspree.
 
 https://formspree.io/
