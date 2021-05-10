@@ -4,25 +4,25 @@
 
 ⭐ ⭐ ⭐
 
-#### ⭐ A fully functional, elegant Tasty Recipes website allowing users to browse through various recipes, which provide a short description of the recipe, ingredients needed, cooking time, preparation time, number of servings, instructions and list of tools used for cooking.
+#### 🌐 A fully functional, elegant Tasty Recipes website allowing users to browse through various recipes, which provide a short description of the recipe, ingredients needed, cooking time, preparation time, number of servings, instructions and list of tools used for cooking.
 
-#### ⭐ Users can search for a recipe they need by clicking of tags assigned to a given recipe.
+#### 🌐 Users can search for a recipe they need by clicking of tags assigned to a given recipe.
 
-#### ⭐ The website is fully responsive.
+#### 🌐 The website is fully responsive.
 
-#### ⭐ Optimized for SEO with gatsby-plugin-react-helmet: 
+#### 🌐 Optimized for SEO with gatsby-plugin-react-helmet: 
 
 npm install gatsby-plugin-react-helmet react-helmet
 
 https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/
 
-#### ⭐ Contact form has been set up with Formspree.
+#### 🌐 Contact form has been set up with Formspree.
 
 https://formspree.io/
 
-#### ⭐ Individual recipe sites have been set up programmatically using query variables in GraphQL.
+#### 🌐 Individual recipe sites have been set up programmatically using query variables in GraphQL.
 
-#### ⭐ Urls for individual recipe sites have been slugified:
+#### 🌐 Urls for individual recipe sites have been slugified:
 
 git command: 
 npm i slugify
@@ -39,7 +39,7 @@ https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world
 
 ⭐ 
 
-#### Gatsby Styled-Components Plugin:
+#### 🌐 Gatsby Styled-Components Plugin:
 
 A Gatsby plugin for styled-components with built-in server-side rendering support.
 
@@ -50,7 +50,7 @@ https://www.gatsbyjs.com/plugins/gatsby-plugin-styled-components/
 
 ⭐ 
 
-#### Icons used for this project:
+#### 🌐 Icons used for this project:
 
 React icons
 
@@ -61,7 +61,7 @@ https://react-icons.github.io/react-icons/
 
 ⭐ 
 
-#### Plugin gatsby-source-contentful:
+#### 🌐 Plugin gatsby-source-contentful:
 
 Source plugin for pulling content types, entries, and assets into Gatsby from Contentful spaces. It creates links between entry types and asset so they can be queried in Gatsby using GraphQL.
 
