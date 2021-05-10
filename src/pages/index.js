@@ -19,7 +19,7 @@ export default function Home() {
           <div className="hero-container">
             <div className="hero-text">
               <h1>tasty recipes</h1>
-              <h4>all the recipes you ever wanted</h4>
+              <h4>all the recipes you ever wanted to try</h4>
             </div>
           </div>
         </header>
